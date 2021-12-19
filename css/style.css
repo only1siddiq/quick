@@ -1,0 +1,100 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Poppins', sans-serif;
+}
+/* header css starts */
+header{}
+.h-wrapper{
+	padding: 10px 5%;
+	border: 2px solid lightgray;
+	width: 90%;
+	overflow: hidden;
+}
+.logo{
+	width: 20%;
+	float: left;
+}
+.logo img{}
+nav{
+	padding-right: 20px;
+	float: right;
+}
+nav ul{
+	list-style-type: none;
+	}
+nav ul li{
+	display: inline-block;
+	padding: 12px 0;
+	padding-left: 20px;
+	float: left;
+}
+nav ul li a{
+	color: #0C66FF;
+	text-decoration: none;
+}
+/*header css ends*/
+/*b-css starts*/
+.banner{
+	padding-top: 80px;
+	padding-bottom: 100px;
+}
+.b-wapper{
+}
+.b-txt{}
+.b-txt h1{
+	font-size: 48px;
+	text-align: center;
+}
+.b-txt h2{
+	font-size: 48px;
+	text-align: center;
+	color: #008AFF;
+}
+.b-txt p{
+	text-align: center;
+}
+.b-img{}
+.b-img img{
+    margin: 10px auto 20px;
+    display: block;
+}
+/*b-css ends*/
+/*p-css starts*/
+.project{}
+.p-wapper{
+	padding-bottom: 80px;
+	overflow: hidden;
+}
+.p-txt-1{
+	padding-right: 1%;
+	width: 49%;
+	float: left;
+}
+.p-txt-1 h1{
+	font-size: 50px;
+	color: red;
+	text-align: right;
+}
+.p-txt-1 p{
+	text-align: right;
+}
+.p-txt-2{
+	padding-left: 1%;
+	width: 49%;
+	float: right;
+}
+.p-txt-2 h1{
+	font-size: 45px;
+}
+/*p-css ends*/
+.footer{
+	background-color: #008AFF;
+	text-align: center;
+	padding: 10px 0;
+}
+footer {
+
+}
